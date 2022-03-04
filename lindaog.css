@@ -10,7 +10,7 @@
    background-position:center center;
 
 }
-div#ie {background-image: url("download (6).jpg");}
+div#ie {background-image: url("imagens/Dwemer\ 1.png");}
 
 main {
    margin: auto;
@@ -67,7 +67,7 @@ nav {
    height: 8vh;
 }
 main {
-   background: url("download (6).jpg");
+   background: url("imagens/Dwemer\ 1.png") no-repeat center center;
    background-size: cover;
    height: 92vh;
 }
